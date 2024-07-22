@@ -26,7 +26,7 @@ Here are the log loss of each model that I used
 4.) CNN - 0.5866  
 5.) Gaussian Naive Bayes - 0.8887  
 
-Random Forest was the clear winner in terms of log loss. By taking a look at the table below, it was also the clear winner in terms of accuracy score and in terms of offensive rebound prediction
+Random Forest was the clear winner in terms of log loss. By taking a look at the table below, it was also the clear winner in terms of accuracy score and in terms of offensive rebound prediction.
 
 #### Key Insights:
 
